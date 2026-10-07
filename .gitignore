@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+rawdata/
+data/
+output/
+* - Copy.R
+.httr-oauth
+.DS_Store
+.quarto
+scripts/old/
