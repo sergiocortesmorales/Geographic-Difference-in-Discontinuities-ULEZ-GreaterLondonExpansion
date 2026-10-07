@@ -6,6 +6,7 @@
 rawdata/
 data/
 output/
+outputs/
 * - Copy.R
 .httr-oauth
 .DS_Store
